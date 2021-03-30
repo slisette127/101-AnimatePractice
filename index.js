@@ -3,7 +3,7 @@ let elementColor = ""
 
 // Can you use these two variables to change the type and text of the next element that's created?
 let elementType = ""
-let inputtedText = ""
+let inputtedText = "Hello"
 
 // function that handles the input "animation-name"
 const setAnimationName = (name) => {
